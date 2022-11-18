@@ -1,7 +1,7 @@
 # Releases of Custom ROMs
 Here you will get Builds for Sweetin/RMX1851 devices
 
-## How in Flash?
+## How to Flash?
 - Download Rom in your external storage
 - Go to Recovery Mode
 - Flash the Rom
